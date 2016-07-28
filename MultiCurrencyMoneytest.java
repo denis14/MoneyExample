@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class MultiCurrencyMoneytest
 {
-
+   // alsdasd
    @Test
    public void testDollarMultiplication()
    {
